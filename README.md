@@ -1,9 +1,3 @@
-# 📈 Marketing Management (BUSI3021)
-
-**Professor:** Silvia Bellezza  
-**Semester:** Spring 2026  
-**Schedule:** Wednesdays, 4:10–6:40 PM
-
 ## 📖 Overview
 
 A customer-centric marketing course that explores how understanding consumer behavior creates value for organizations and society. The class covers consumer insights, value proposition design, branding, pricing, communication, and marketing strategy through real-world case studies and applied frameworks.
@@ -47,15 +41,7 @@ A customer-centric marketing course that explores how understanding consumer beh
 - Data-Driven Marketing
 - Marketing Plan Development
 
-## 📊 Evaluation
-
-| Component | Weight |
-|-----------|--------|
-| Class Participation & Attendance | 40% |
-| Final Exam | 40% |
-| Group Marketing Plan | 20% |
-
-## 📝 Group Project
+## 📝 Final Project (Attached in Folder via Github Codespace)
 
 Develop a comprehensive marketing plan for an existing or hypothetical product/service, supported by market research and strategic analysis. The project emphasizes:
 
